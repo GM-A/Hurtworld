@@ -1,7 +1,7 @@
 {
     "settings": {
         "active": true,
-        "version": 1
+        "version": "0.0.0.0.1"
     },
     "welcomeBox": {
         "title": "anti-cheat",
