@@ -1,0 +1,10 @@
+{
+    "settings": {
+        "active": true,
+        "version": 1
+    },
+    "welcomeBox": {
+        "title": "anti-cheat",
+        "message": ""
+    }
+}
