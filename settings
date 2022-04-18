@@ -1,6 +1,6 @@
 {
     "settings": {
-        "active": false,
+        "active": true,
         "version": "0.0.0.0.1"
     },
     "welcomeBox": {
